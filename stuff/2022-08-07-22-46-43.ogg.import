@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/2022-08-07-22-46-43.ogg-c5658476c11ee6e01190dabf9f45f1a7.oggstr"
+
+[deps]
+
+source_file="res://stuff/2022-08-07-22-46-43.ogg"
+dest_files=[ "res://.import/2022-08-07-22-46-43.ogg-c5658476c11ee6e01190dabf9f45f1a7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

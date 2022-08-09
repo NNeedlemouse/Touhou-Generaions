@@ -1,0 +1,6 @@
+extends KinematicBody2D
+
+
+const SPEED = 200
+
+var velocity := Vector2.ZERO
